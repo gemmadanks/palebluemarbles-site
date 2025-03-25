@@ -1,6 +1,7 @@
 baseURL = 'https://palebluemarbles.com/'
 languageCode = 'en-us'
 title = "Pale Blue Marbles"
+timeout = "240s"
 
 [taxonomies]
   tag = "tags"

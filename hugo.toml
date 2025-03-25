@@ -6,3 +6,7 @@ title = "Pale Blue Marbles"
   tag = "tags"
   category = "categories"
   series = "series"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

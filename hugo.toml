@@ -1,6 +1,8 @@
-baseURL = 'https://gemmadanks.github.io/palebluemarbles-site/'
+baseURL = 'https://palebluemarbles.com/'
 languageCode = 'en-us'
-title = 'Pale Blue Marbles'
-theme = 'relearn'
-[params]
-  themeVariant = 'blue'
+title = "Pale Blue Marbles"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"

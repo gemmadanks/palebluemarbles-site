@@ -1,0 +1,38 @@
+[[main]]
+none = "none"
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 1
+
+[[main]]
+  name = "Articles"
+  pageRef = "posts"
+  weight = 2
+
+[[main]]
+  name = "Activity Packs"
+  pageRef = "activity-packs"
+  weight = 3
+
+[[main]]
+  name = "Categories"
+  pageRef = "categories"
+  weight = 4
+
+[[main]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 5
+
+[[footer]]
+none = "none"
+
+[[footer]]
+  name = "Personal Site"
+  url = "https://gemmadanks.com"
+
+[[footer]]
+  name = "Research Site"
+  url = "https://open-research.gemmadanks.com"

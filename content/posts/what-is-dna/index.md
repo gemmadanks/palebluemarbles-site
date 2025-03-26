@@ -98,7 +98,7 @@ You can witness the whole process for the salamander in the incredible video fro
 
 > As you watch the video with your child, talk about how the cells are dividing and taking on different jobs. That is how you go from a single egg cell to a salamander, and it is all directed by the salamander’s DNA.
 
-<iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" frameborder="0" height="315" src="https://www.youtube.com/embed/SEejivHRIbE" width="560"></iframe>
+{{< youtube SEejivHRIbE >}}
 
 I hope your child is convinced at this point that DNA is amazing!
 
@@ -213,7 +213,7 @@ You can watch a nice animation of how DNA is copied in the following video.
 
 Look at those molecular machines in action: this is happening in your body right now!
 
-<iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" frameborder="0" height="315" src="https://www.youtube.com/embed/7Hk9jct2ozY?start=147" width="560"></iframe>
+{{< youtube 7Hk9jct2ozY >}}
 
 > Ask your child why they think it is important to copy DNA. What would happen if a cell did not have any DNA?
 

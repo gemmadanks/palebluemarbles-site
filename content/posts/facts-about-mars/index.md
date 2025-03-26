@@ -44,7 +44,7 @@ Download PDF
 
 So what is so interesting about Mars? A lot! There are far too many fascinating facts about Mars to cover in one blog post – so I am creating a **new series on the Red Planet**, focusing on why it’s so important for astrobiology. This first post will **introduce your child to Mars** and get them excited about the prospect of looking for life there. Let’s get started! Watch this video for a summary of the 10 facts about Mars we’re going to cover, then read on for the details and activities. 
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/nWikNt7O37o" width="560"></iframe>
+{{< youtube nWikNt7O37o >}}
 
 ## Mars facts: 10 facts about Mars
 
@@ -74,7 +74,7 @@ This is a great way to do some **hands-on maths** while cultivating curiosity ab
 
 - Playdough – this is easy to make (see the video below). You can use red for Mars and blue/green for Earth but any colours will do.
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/fEXJiTupreI" width="560"></iframe>
+{{< youtube fEXJiTupreI >}}
 
 #### What you’ll do
 
@@ -181,7 +181,7 @@ Mars has the biggest volcano in the Solar System: it’s called [**Olympus Mons.
 
 To learn more about volcanoes watch this nice video from National Geographic:
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/VNGUdObDoLk" width="560"></iframe>
+{{< youtube VNGUdObDoLk >}}
 
 ### Mars activity #3. Make your own Martian volcano
 
@@ -223,7 +223,7 @@ Mars is red because **its soil contains iron** that has been oxidised (turned to
 
 Explore Mars’ surface interactively below:
 
-<iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" frameborder="0" height="315" src="https://www.youtube.com/embed/NJzDNgs7Db8" width="560"></iframe>
+{{< youtube NJzDNgs7Db8 >}}
 
 #### Mars activity #4. Rust scavenger hunt
 
@@ -245,7 +245,7 @@ A **solar day** is the time it takes for the **Sun to return to the same positio
 
 Watch this animation to see all the planets in our Solar System with their relative sizes, tilts, sidereal day lengths and rotational speeds.
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/hf6WUmwJKZE" width="560"></iframe>
+{{< youtube hf6WUmwJKZE >}}
 
 ### Facts about Mars #8: A year on Mars is almost twice as long as a year on Earth and has four seasons
 
@@ -345,7 +345,7 @@ Here’s a recap of our **10 facts about Mars**.
 
 Here’s the summary video. Text below.
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/nWikNt7O37o" width="560"></iframe>
+{{< youtube nWikNt7O37o >}}
 
 Mars:
 

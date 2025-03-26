@@ -48,7 +48,7 @@ This simulated image shows the orbits of the planets around the Sun in our solar
 
 The Solar System extends well beyond the planets though. It doesn’t end until you travel to the outer edge of the **Oort cloud,** which forms a giant bubble around the disc of orbiting planets. Inside the Oort cloud are chunks of ice and dust left over from the formation of the Solar System 4.6 billion years ago. This short video from NASA gives a nice overview:
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/zhb43EbnvpI" width="560"></iframe>
+{{< youtube zhb43EbnvpI >}}
 
 In order to fit the Oort cloud into the same picture as the planets, the Solar System has to be placed on a log scale, where each step on the scale is 10 times larger than the previous:
 
@@ -58,7 +58,7 @@ Some objects in the Oort cloud got displaced may (most likely billions) of years
 
 [You can see one of these comets in the skies right now](https://earthsky.org/space/how-to-see-comet-c2020-f3-neowise) – it’s called comet C/2020 F3 (NEOWISE). Take a look at this amazing footage showing NEOWISE from the international space station.
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/Yh1_wHdUx3Y" width="560"></iframe>
+{{< youtube Yh1_wHdUx3Y >}}
 
 **The Solar System is a specific name for our solar system.** The more general name for a star and its orbiting planets is “**planetary system**“. There are billions of other planetary systems in the Universe – each with their own star (or stars – our solar system has one star but many planetary systems have multiple stars).
 
@@ -92,7 +92,7 @@ Pluto, that much loved ninth planet, was [downgraded to “dwarf planet”](http
 
 If your child is not familiar with the names and order of the planets in the Solar System, I recommend watching this planet song on YouTube – it was a big hit with my kids!
 
-<iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" frameborder="0" height="315" src="https://www.youtube.com/embed/mQrlgH97v94" width="560"></iframe>
+{{< youtube mQrlgH97v94 >}}
 
 Despite knowing all the planets, perhaps even the [dwarf planets](https://www.jpl.nasa.gov/infographics/infographic.view.php?id=11268), does your child have a good grasp of the sheer size of the Solar System? Do you?
 

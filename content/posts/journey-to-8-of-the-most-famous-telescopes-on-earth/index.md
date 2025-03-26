@@ -61,7 +61,7 @@ The Daniel K. Inouye Solar Telescope, with its 4m mirror, is the largest solar t
 
 Check out the telescope’s [first images of the surface of our sun](https://www.nso.edu/press-release/inouye-solar-telescope-first-light/) released at the end of January 2020 showing “boiling” gas in cell-like structures each one around the size of Texas, or a bit bigger than France!
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/4nieF-e0OOs" width="560"></iframe>
+{{< youtube 4nieF-e0OOs >}}
 
 ### 2. W. M. Keck Observatory
 
@@ -77,7 +77,7 @@ This world-famous telescope has been used to make a host of important discoverie
 
 You can learn more about the Keck Observatory in this video:
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/DGblreLiWsE" width="560"></iframe>
+{{< youtube DGblreLiWsE >}}
 
 ### 3. Gran Telescopio Canarias
 
@@ -91,11 +91,11 @@ It recently helped observe the [birth of a blazar](https://www.iac.es/en/outreac
 
 When dust and gas fall into a supermassive black hole at the centre of a galaxy it emits a jet of high energy particles and radiation. This is called a quasar. When a quasar’s jet points directly towards Earth it’s called a blazar. In this case, the blazar was born by the merging of two young spiral galaxies, each with a supermassive black hole in its centre.
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/DK9TMnC7n8E" width="560"></iframe>
+{{< youtube DK9TMnC7n8E >}}
 
 Experience a night at Gran Telescopio Canarias in the video below:
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/K7padkb0-n8" width="560"></iframe>
+{{< youtube K7padkb0-n8 >}}
 
 For a look at this world-famous telescope in real-time, you can also check out [their webcams.](http://www.gtc.iac.es/multimedia/webcams.php)
 
@@ -107,7 +107,7 @@ Jodrell Bank Observatory, in Cheshire, is the UK’s latest [UNESCO World Herita
 
 It contains the [Lovell Telescope](https://www.jodrellbank.net/visit/whats-here/lovell-telescope/), one of the biggest and most powerful radio telescopes in the world, with a 76.2m diameter bowl that collects radio waves from [different sources across the Universe](http://www.jodrellbank.manchester.ac.uk/research/), including [a spiral galaxy emitting Fast Radio Bursts (FRBs).](https://www.jodrellbank.net/a-repeating-fast-radio-burst-from-a-spiral-galaxy/) The origins of FRBs is one of the greatest mysteries in astronomy – you can learn more about them in this video:
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/eKo-Jx3l418" width="560"></iframe>
+{{< youtube eKo-Jx3l418 >}}
 
 Once the COVID-19 pandemic is over, if you are near Cheshire, I recommend a visit to Jodrell Bank, it has a lot for curious kids to explore!
 
@@ -119,7 +119,7 @@ The [Southern African Large Telescope](https://www.salt.ac.za/) [(SALT) is an op
 
 You can learn more about dark energy and dark matter in this video from National Geographic:
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/9HNtHTZ2FpQ" width="560"></iframe>
+{{< youtube 9HNtHTZ2FpQ >}}
 
 ### 6. Very Large Array
 
@@ -133,7 +133,7 @@ In February 2020, a team of astronomers from SETI (Search for Extra-Terrestrial 
 
 You can see beautiful aerial views of the VLA in this video:
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/TZXer4qadbw" width="560"></iframe>
+{{< youtube TZXer4qadbw >}}
 
 ### 7. Arecibo Observatory
 
@@ -143,7 +143,7 @@ This world-famous [radio telescope in Puerto Rico](http://www.naic.edu/ao/) has 
 
 By collecting echos of radar beamed out by the planetary radar at the observatory it is used to study planets, moons, comets and asteroids in our solar system. Most recently it tracked the near-Earth asteroid (52768) 1998 OR2 that passed safely by on the 29 April 2020.
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/FDYaBXicSts" width="560"></iframe>
+{{< youtube FDYaBXicSts >}}
 
 ![The Arecibo message from 1974](arecibo-message-1974.png "The Arecibo message from 1974 translated into a pictorial representation. Image credit: Arne Nordmann.")
 
@@ -161,7 +161,7 @@ We’ll finish our journey of the world’s most famous telescopes by heading ov
 
 [The Extremely Large Telescope](https://www.eso.org/public/teles-instr/elt/) will have a main mirror with a diameter of 39 metres. It will be the largest optical/near-infrared telescope in the world. Currently under construction on the Cerro Armazones mountain in Chile, this giant telescope will be used to search for signs of life on planets outside our solar system as well as study the origins of the Universe and the nature of dark energy and dark matter. You’ll have to wait until 2025 to see its first light. Here’s what it will look like:
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/WfpXP-MSYdc" width="560"></iframe>
+{{< youtube WfpXP-MSYdc >}}
 
 ### 9. The Square Kilometer Array Observatory (SKAO)
 
@@ -173,7 +173,7 @@ Powering the future of radio astronomy, the Square Kilometer Array Observatory (
 
 SKAO has [just released its first image](https://www.skao.int/en/news/621/ska-low-first-glimpse-universe) created using just 1,024 of the planned 130,072 antennas in Australia. When complete, both telescopes will revolutionise our understanding of the universe and see things we can't even imagine. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zV_DuFGKHY8?si=3UFkflwTQ0qzPsz2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< youtube zV_DuFGKHY8 >}}
 
 I will be posting more about SKAO in other posts.
 

@@ -61,7 +61,7 @@ The orange trumpet on a daffodil, while the delight of my children, is a small v
 
 Take a look at some of them blooming in this video from National Geographic:
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/LjCzPp-MK48" width="560"></iframe>
+{{< youtube LjCzPp-MK48 >}}
 
 Count up all the plant species with flowers (the angiosperms) and you’ll find that they comprise a staggering [94% of all the vascular land plants](https://stateoftheworldsplants.org/2016/) (plants with a transport system for water and minerals) on Earth (369,000 out of 391,000). This is why flowering plants play such a **big role in [transporting water into the atmosphere](https://www.sciencemag.org/news/2010/06/world-without-flowers)**: they take water up from the soil, through their roots, and release it into the air, through their leaves (this process is called transpiration).
 
@@ -129,7 +129,7 @@ Some, like the bumblebee, are there to eat pollen. It’s a rich source of prote
 
 Watch the hummingbird feed on nectar in this clip from BBC Earth:
 
-<iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" frameborder="0" height="315" src="https://www.youtube.com/embed/QTceLKXwHLY" width="560"></iframe>
+{{< youtube QTceLKXwHLY >}}
 
 So what does this nectar have to do with what the flowers look like?
 
@@ -147,7 +147,7 @@ Sunflowers are famous for tracking the sun during the day. One of the benefits t
 
 This short video gives a nice summary of how this works:
 
-<iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" frameborder="0" height="315" src="https://www.youtube.com/embed/GCRNHdGXTi4" width="560"></iframe>
+{{< youtube GCRNHdGXTi4 >}}
 
 ## Sneaky flowers
 
@@ -234,7 +234,7 @@ Get back into your time machine and travel a few hundred years back towards the 
 
 The most recent [ancestor of all existing flowers](https://www.nature.com/articles/ncomms16047#MOESM6) (which lived [256-149 million years ago](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15011)) may have looked something like this (click to play a short video that rotates the flower):
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/ghFiD33_AQ4" width="560"></iframe>
+{{< youtube ghFiD33_AQ4 >}}
 
 These early flowers were probably **small**, around 1 cm across, and had more than ten stamens (male parts), more than five carpels (female parts), and more than ten petal-like structures. **All flowers that exist today are modified versions of this template.**
 
@@ -288,13 +288,13 @@ The bees get their nectar, the flowers get pollinated. Win-win.
 
 Show your child the following video and let them be amazed.
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/SZrTndD1H10" width="560"></iframe>
+{{< youtube SZrTndD1H10 >}}
 
 ## Long tongues
 
 Here is another fantastic example of the co-evolution of flowering plants and pollinators: the **long tongues of bats and the deep tubes of flowers**. Check out this video to see how the bats use their tongues to drink.
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/WTOuNGglsrc" width="560"></iframe>
+{{< youtube WTOuNGglsrc >}}
 
 ## An ‘abominable mystery’
 

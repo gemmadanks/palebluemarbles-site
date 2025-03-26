@@ -29,7 +29,7 @@ Download PDF
 
 The building blocks of all matter, living and non-living, are atoms. The air we breathe, the food we eat, the trees, the oceans, the soil, the worms, the sun that shines in our sky: all made from atoms. Take a look at this video from CERN to see how small they are:
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/7WhRJV_bAiE" width="560"></iframe>
+{{< youtube 7WhRJV_bAiE >}}
 
 ## **Where did atoms come from?**
 
@@ -91,7 +91,7 @@ It is so powerful that it sends shock waves into space, heating any dust and gas
 
 Here’s an animation of a supernova that was caught by the [Kepler space telescope](https://www.nasa.gov/mission_pages/kepler/overview/index.html):
 
-<iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" frameborder="0" height="315" src="https://www.youtube.com/embed/kLlILnQjGfc" width="560"></iframe>
+{{< youtube kLlILnQjGfc >}}
 
 This means…
 
@@ -105,7 +105,7 @@ To help your child understand these processes and give them a better grasp of wh
 
 **I created a video to summarise the key information on nucleosynthesis and how to model it with playdough. Watch this for an overview then read on!**
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/w3xsFANk4eg" width="560"></iframe>
+{{< youtube w3xsFANk4eg >}}
 
 **Read the information associated with each step first for background, then follow the steps that follow.**
 
@@ -322,7 +322,7 @@ It **arranges all the known elements in the Universe by atomic number**, into gr
 
 I recommend watching this video with your child to get them excited about the periodic table!
 
-<iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" frameborder="0" height="315" src="https://www.youtube.com/embed/rz4Dd1I_fX0" width="560"></iframe>
+{{< youtube rz4Dd1I_fX0 >}}
 
 There is also a very nice[ interactive periodic table from the royal society of chemistry](https://www.rsc.org/periodic-table) that gives a lot of information for each element and visualises what state each element is at different temperatures.
 
@@ -354,4 +354,4 @@ Related post: [Astrobiology’s marvellous molecules](/posts/moleculemonday/)
 
 This is a fun video about atomic bonds that made this concept stick with my kids:
 
-<iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" frameborder="0" height="315" src="https://www.youtube.com/embed/ljvX-RMv_lw" width="560"></iframe>
+{{< youtube ljvX-RMv_lw >}}

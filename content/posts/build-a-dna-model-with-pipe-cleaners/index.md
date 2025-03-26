@@ -38,7 +38,7 @@ Watch the video for a quick recap on the structure of DNA and step-by-step instr
 - Scissors to cut the pipe cleaners
 - Pen and paper to make labels
 
-<iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" frameborder="0" height="315" src="https://www.youtube.com/embed/iExwQI4_EaI" width="560"></iframe>
+{{< youtube iExwQI4_EaI >}}
 
 ### What to do
 

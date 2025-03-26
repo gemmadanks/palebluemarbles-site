@@ -41,7 +41,7 @@ Let’s dwell on that a while for some additional perspective on our place in th
 
 Aside from living on a planet at just the right distance from just the right star and being a member of a species capable of contemplating the Universe, plus enjoying access to an enormous body of knowledge on it, **you are the product of nearly 4 billion years of evolution and trillions upon trillions of ancestors** that managed to survive long enough to pass their genes on to the next generation. You can check out what some of your ancestors may have looked like by watching the video below.
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/hSSzn4bIwZg" width="560"></iframe>
+{{< youtube hSSzn4bIwZg >}}
 
 For every one of quadrillions of choices your ancestors made — swim towards that light or away from it, run from that spooky shadow in the bushes or stay in the open and enjoy the tasty food, take this job in the country or that one in the city, finish this cup of tea and drive to work or skip the tea and catch the bus — another potential person (or even another creature entirely) could be standing in your place right now.
 
@@ -128,7 +128,7 @@ There have even been images taken of planets outside of [our solar system](/post
 
 The video below shows images of 4 massive (larger than Jupiter) planets around a star in the constellation Pegasus (this star is also visible to the naked eye).
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/gcHXGZaS_6M" width="560"></iframe>
+{{< youtube gcHXGZaS_6M >}}
 
 ## Questions for astrobiology
 

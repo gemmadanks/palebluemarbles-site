@@ -35,29 +35,30 @@ Fuel the excitement of your little explorers and get them involved in the countd
 
 The window for sending spacecraft to Mars opens once every 26 months, due to the relative positions of Mars and Earth (see activity #1 below). Three nations sent missions to the red planet in the summer 2020 window – each will reach Mars in February 2021. This video from Nature gives a nice overview of the space agencies involved and why they are all launching in 2020:
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/aLnHTtL8hV8" width="560"></iframe>
+
+{{< youtube aLnHTtL8hV8 >}}
 
 ### Emirates Mars Mission Hope Probe
 
 First up, launched on 19th July, is the [Emirates Mars Mission Hope Probe](https://www.emiratesmarsmission.ae/). This is an orbiter that will help study the Martian atmosphere. Watch the moment it launched here:
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/ClaF0YP4JxQ" width="560"></iframe>
+{{< youtube ClaF0YP4JxQ >}}
 
 ## China’s Tianwen-1
 
 Second, launched on 23rd July, is [China’s Tianwen-1](https://www.dw.com/en/the-facts-on-tianwen-1-mars-orbiter-and-rover/a-54014414), an orbiter and a rover. China has not released many details about this mission so far but you can watch the launch here:
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/DkSJNSvhqpM" width="560"></iframe>
+{{< youtube DkSJNSvhqpM >}}
 
 ## NASA’s Mars 2020 Perseverance rover
 
 Third, launched on 30th July, is the U.S.A. with NASA’s [Mars 2020 Perseverance rover](https://mars.nasa.gov/mars2020/), which will search for signs of ancient life and collect samples for a future return mission to Earth. The first helicopter on Mars, Ingenuity, will also be deployed by Perseverance. We are counting down to this mission and, in February, following its robotic astrobiologist once it gets to Mars! Join the #CountdownToMars!
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/6qA9iaAUo8k" width="560"></iframe>
+{{< youtube 6qA9iaAUo8k >}}
 
 You can watch the moment the Perseverance rover launched here:
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/VWD-nx9gA0o" width="560"></iframe>
+{{< youtube VWD-nx9gA0o >}}
 
 And you can [follow it on its journey to Mars here](https://eyes.nasa.gov/apps/orrery/#/sc_perseverance).
 
@@ -170,7 +171,7 @@ The first helicopter to fly on another world, Ingenuity, will be deployed by the
 
 You can learn more about Ingenuity here:
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/qwdfdE6ruMw" width="560"></iframe>
+{{< youtube qwdfdE6ruMw >}}
 
 ## T-4 days
 
@@ -243,8 +244,7 @@ Enjoy!
 
 And here’s the moment it launched:
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/VWD-nx9gA0o" width="560"></iframe>
-
+{{< youtube VWD-nx9gA0o >}}
 
 ## What next?
 

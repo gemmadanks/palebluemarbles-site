@@ -166,7 +166,7 @@ Nevertheless, even in these places, there are microbes and tiny animals and plan
 
 Watch the following video with your child to see some of the beautiful scenery and the animal life this environment supports.
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/WqnQo3DgEoo" width="560"></iframe>
+{{< youtube WqnQo3DgEoo >}}
 
 #### Learning through play #1. Play with ice
 
@@ -184,7 +184,7 @@ Most kids love ice so give your child a tray, some containers, spoons and some i
 
 Contrast the icy landscapes of Antarctica with some of the hottest places on Earth and learn a bit more about our planet’s deserts and the life they contain.
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/n4crvs-KTBw" width="560"></iframe>
+{{< youtube n4crvs-KTBw >}}
 
 Does it change your ideas about what defines a habitable environment?
 
@@ -200,7 +200,7 @@ Give your child a tray, some containers, spoons and some sand and let them exper
 
 What about in the deep sea, on the ocean floor? There is **no sunlight** here and the weight of the water creates **[pressure over 840 times](https://theconversation.com/curious-kids-how-do-creatures-living-in-the-deep-sea-stay-alive-given-the-pressure-111940) what we are used to**. But even here, there is life. Beautiful life. Take a look:
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/3H6jzsFNqpM" width="560"></iframe>
+{{< youtube 3H6jzsFNqpM >}}
 
 #### Learning through play #3. Draw deep-sea creatures
 
@@ -216,7 +216,7 @@ Give your child some crayons and let their imagination run wild! If you have a b
 
 Some life forms have evolved adaptations to extreme environments that are impossible for humans to live in. These are called **extremophiles**. Amongst other places, you can find them deep in the Earth’s crust, in superheated water at the bottom of the ocean or in salty lakes. Watch this video to learn a bit more about them.
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/MY1d5Saqrc4" width="560"></iframe>
+{{< youtube MY1d5Saqrc4 >}}
 
 What’s on your list of life’s requirements now?
 

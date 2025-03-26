@@ -46,7 +46,7 @@ This is a classic activity that brings joy to small children (and adults!) If yo
 - What is evaporation
 - Clouds on other planets
 
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/dnL5LPil77M" width="560"></iframe>
+{{< youtube dnL5LPil77M >}}
 
 ### Earth Day activity #2. Write a poem to the Earth
 
@@ -82,7 +82,7 @@ If you can’t hear any birds from where you are then listen to the [RSPB’s bi
 
 If your child is curious you can watch this TED-Ed video on how birds learn to sing:
 
-<iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" frameborder="0" height="315" src="https://www.youtube.com/embed/r5_ZSnFDPRg" width="560"></iframe>
+{{< youtube r5_ZSnFDPRg >}}
 
 ### Earth Day activity #5. Photograph nature
 

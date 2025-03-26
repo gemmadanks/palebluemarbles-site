@@ -56,7 +56,7 @@ Here goes!
 - One or two medium-sized drinking **glasses** or similar containers (we used an old jam jar)
 - A small glass – the smaller the diameter of the glass the less hand sanitiser you will need and the easier it will be to fish out the DNA (we used a small shot glass)
 
-<iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" frameborder="0" height="315" src="https://www.youtube.com/embed/siiAuu6c2Hw" width="560"></iframe>
+{{< youtube siiAuu6c2Hw >}}
 
 ### What to do
 

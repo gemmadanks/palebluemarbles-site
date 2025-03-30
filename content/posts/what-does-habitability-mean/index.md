@@ -2,7 +2,7 @@
 title: 'Habitability: what does it mean for a world to be habitable?'
 date: '2020-06-07T11:16:01+02:00'
 author: 'Gemma Danks'
-permalink: /what-does-habitability-mean/
+url: /what-does-habitability-mean
 image: feature-habitability-part-1.png
 categories:
     - Activities

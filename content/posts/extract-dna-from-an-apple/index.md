@@ -1,7 +1,7 @@
 ---
 title: 'How to extract DNA from an apple'
 date: '2020-05-14T21:01:47+02:00'
-permalink: /extract-dna-from-an-apple/
+url: /extract-dna-from-an-apple
 image: feature-extract-dna.jpg
 categories:
     - Activities

@@ -1,7 +1,7 @@
 ---
 title: "How many stars are there? Let's count them with sand!"
 date: '2020-04-18T23:32:22+02:00'
-permalink: /count-the-stars-in-grains-of-sand/
+url: /count-the-stars-in-grains-of-sand
 image: /count-the-universe-in-grains-of-sand-wp.png
 categories:
     - Activities

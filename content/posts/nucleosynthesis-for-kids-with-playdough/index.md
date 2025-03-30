@@ -1,7 +1,7 @@
 ---
 title: "Nucleosynthesis with playdough"
 date: '2020-05-25T08:45:00+02:00'
-permalink: /nucleosynthesis-for-kids-with-playdough/
+url: /nucleosynthesis-for-kids-with-playdough
 image: feature-nucleosynthesis-playdough.png
 categories:
     - Activities

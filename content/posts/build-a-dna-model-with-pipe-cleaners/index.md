@@ -1,7 +1,7 @@
 ---
 title: 'Build a DNA model with pipe cleaners'
 date: '2020-05-14T09:53:19+02:00'
-permalink: /build-a-dna-model-with-pipe-cleaners/
+url: /build-a-dna-model-with-pipe-cleaners
 image: feature-build-dna-pipe-cleaners.png
 categories:
     - Activities

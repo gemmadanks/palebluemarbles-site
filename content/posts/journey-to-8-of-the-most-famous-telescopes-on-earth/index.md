@@ -1,7 +1,7 @@
 ---
 title: 'Journey to 8 of the most famous telescopes on Earth'
 date: '2020-05-02T16:35:35+02:00'
-permalink: /journey-to-8-of-the-most-famous-telescopes-on-earth/
+url: /journey-to-8-of-the-most-famous-telescopes-on-earth
 image: feature-telescopes.png
 categories:
     - Activities

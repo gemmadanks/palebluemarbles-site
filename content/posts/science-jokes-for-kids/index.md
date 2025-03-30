@@ -1,7 +1,7 @@
 ---
 title: 'Science jokes for kids: with explanations and fun facts'
 date: '2020-06-15T22:30:41+02:00'
-permalink: /science-jokes-for-kids/
+url: /science-jokes-for-kids
 image: feature-science-jokes.png
 categories:
     - Fun

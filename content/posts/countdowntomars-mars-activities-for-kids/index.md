@@ -1,7 +1,7 @@
 ---
 title: '#CountdownToMars with Daily Mars Activities for Kids'
 date: '2020-07-21T16:45:25+02:00'
-permalink: /countdowntomars-mars-activities-for-kids/
+url: /countdowntomars-mars-activities-for-kids
 image: feature-countdowntomars.jpg
 categories:
     - Activities

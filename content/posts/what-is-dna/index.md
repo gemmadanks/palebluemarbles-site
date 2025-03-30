@@ -1,7 +1,7 @@
 ---
 title: 'What is DNA and why is it so amazing?'
 date: '2020-05-12T19:18:00+02:00'
-permalink: /what-is-dna/
+url: /what-is-dna
 image: feature-dna-for-kids-part-1.png
 categories:
     - Biology

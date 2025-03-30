@@ -1,7 +1,7 @@
 ---
 title: '10 Ways to Celebrate Earth Day With Your Child'
 date: '2021-04-20T09:40:09+02:00'
-permalink: /activities-to-celebrate-earth-day/
+url: /activities-to-celebrate-earth-day
 image: feature-10-ways-to-celebrate-earth-day-with-your-child.jpeg
 categories:
     - Activities

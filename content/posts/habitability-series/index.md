@@ -1,7 +1,7 @@
 ---
 title: 'Habitability: searching for life on other worlds'
 date: '2020-06-07T11:05:52+02:00'
-permalink: /habitability-series/
+url: /habitability-series
 image: feature-habitability-series.png
 categories:
     - Astrobiology

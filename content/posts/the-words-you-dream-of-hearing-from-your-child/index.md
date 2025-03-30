@@ -1,7 +1,7 @@
 ---
 title: 'The words you dream of hearing from your child'
 date: '2020-04-06T13:23:17+02:00'
-permalink: /the-words-you-dream-of-hearing-from-your-child/
+url: /the-words-you-dream-of-hearing-from-your-child
 categories:
     - Parenting
 tags:

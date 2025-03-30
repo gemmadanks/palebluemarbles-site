@@ -1,7 +1,7 @@
 ---
 title: 'Why kids will one day learn astrobiology before their ABCs'
 date: '2020-04-20T00:19:09+02:00'
-permalink: /why-kids-will-one-day-learn-astrobiology-before-their-abcs/
+url: /why-kids-will-one-day-learn-astrobiology-before-their-abcs
 image: feature-why-kids-will-one-day-learn-astrobiology-before-their-abcs-wp.png
 categories:
     - Astrobiology

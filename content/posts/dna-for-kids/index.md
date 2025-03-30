@@ -1,7 +1,7 @@
 ---
 title: 'DNA for kids: an adventure into the molecular world of life'
 date: '2020-05-12T18:43:49+02:00'
-permalink: /dna-for-kids/
+url: /dna-for-kids
 image: feature-dna-for-kids-series.png
 categories:
     - Biology

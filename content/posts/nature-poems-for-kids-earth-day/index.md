@@ -1,7 +1,7 @@
 ---
 title: '20 Nature Poems for Kids'
 date: '2020-04-21T21:55:25+02:00'
-permalink: /nature-poems-for-kids-earth-day/
+url: /nature-poems-for-kids-earth-day
 image: feature-nature-poems.jpg
 categories:
     - Activities

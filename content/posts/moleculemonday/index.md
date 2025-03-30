@@ -1,7 +1,7 @@
 ---
 title: "Astrobiology's Marvellous Molecules (#MoleculeMonday)"
 date: '2020-08-13T10:23:03+02:00'
-permalink: /moleculemonday/
+url: /moleculemonday
 image: feature-moleculemonday.jpg
 categories:
     - Astrobiology

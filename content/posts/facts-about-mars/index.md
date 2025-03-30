@@ -1,7 +1,7 @@
 ---
 title: '10 Facts about Mars (with 6 activities for curious kids)'
 date: '2020-07-17T13:57:41+02:00'
-permalink: /facts-about-mars/
+url: /facts-about-mars
 image: feature-facts-about-mars.jpg
 categories:
     - Activities

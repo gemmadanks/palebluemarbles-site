@@ -1,7 +1,7 @@
 ---
 title: 'The evolution of flowers: a floral adventure for curious kids'
 date: '2020-07-01T01:00:00+02:00'
-permalink: /evolution-of-flowers/
+url: /evolution-of-flowers
 image: feature-evolution-of-flowers.jpg
 categories:
     - Activities

@@ -1,7 +1,7 @@
 ---
 title: 'How big is the Solar System? Big, really big!'
 date: '2020-07-13T21:36:19+02:00'
-permalink: /how-big-is-the-solar-system/
+url: /how-big-is-the-solar-system
 image: feature-solar-system.jpg
 categories:
     - Activities
